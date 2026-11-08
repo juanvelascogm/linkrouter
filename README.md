@@ -6,7 +6,7 @@ Examples: links from Slack open in Vivaldi, `github.com` always opens in Chrome,
 
 ## Install
 
-**Download:** grab `LinkRouter.zip` from the [Releases](../../releases) page, unzip, and drag `LinkRouter.app` to `/Applications`.
+**Download** (Apple Silicon Macs; Intel users should build from source): grab `LinkRouter.zip` from the [Releases](../../releases) page, unzip, and drag `LinkRouter.app` to `/Applications`.
 
 The app is ad-hoc signed, not notarized, so macOS will warn on first launch. Right-click the app, choose **Open**, then **Open** again. Or run:
 
